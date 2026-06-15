@@ -21,6 +21,8 @@ Funcionalidades implementadas
  Interfaz con menú lateral tipo dashboard
  Estructura del proyecto
  <img width="718" height="877" alt="image" src="https://github.com/user-attachments/assets/7111c4a9-3343-4a9a-9d9c-31308d4ac206" />
+
+ 
  Instrucciones de ejecución (fácil)
 Clona el repositorio de GitHub, luego ábrelo en IntelliJ IDEA o NetBeans, asegúrate de tener Java y JavaFX instalados, y ejecuta la clase Main.java para iniciar el sistema y regustra el producto asegurate de iniciar bien sesion con las credenciales correctas.
 
